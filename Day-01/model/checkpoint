@@ -1,0 +1,2 @@
+model_checkpoint_path: "lineRegressionModel.cpkt-16"
+all_model_checkpoint_paths: "lineRegressionModel.cpkt-16"
